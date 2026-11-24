@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+# 안녕하세요👋, 이준용입니다.
+
+화면을 그리기 전에,
+사용자가 왜 멈췄는지부터 정의하는 UI/UX Product Designer입니다.
+
 <!--
 **501ljy/501ljy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
