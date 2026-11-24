@@ -1,8 +1,8 @@
 
-# 안녕하세요👋 <br> 이준용입니다.
+# 안녕하세요.👋 <br> 이준용입니다.
 
-화면을 그리기 전에,
-사용자가 왜 멈췄는지부터 정의하는 UI/UX Product Designer입니다.
+복잡한 사용자 흐름을 이해 가능한 선택으로 바꾸고,
+아이디어를 실제 제품으로 연결하는 UI/UX Product Designer입니다.
 
 <!--
 **501ljy/501ljy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
